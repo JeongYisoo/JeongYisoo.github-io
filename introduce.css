@@ -1,0 +1,138 @@
+@font-face {
+    font-family: 'Independence_hall';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2102-01@1.0/Independence_hall.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'LAB디지털';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/LAB디지털.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Jal_Onuel';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/Jal_Onuel.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: 'Jal_Onuel';
+    text-align: center;
+    background-image: url(https://mblogthumb-phinf.pstatic.net/20130502_272/moonts1987_13674830299523dabr_JPEG/%C1%BE%C0%CC%C1%FA%B0%A8_%288%29.jpg?type=w2);
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-family: 'Independence_hall';
+    font-size: 60px;
+    padding-top: 15px;
+}
+h2{
+    font-size: 29px;
+    font-weight: lighter;
+    background-color: #9FC3D5;
+    border: 1px groove #9fc3d5;
+    box-shadow: 9px 5px;
+    border-radius: 18px;
+    padding-top: 15px;
+    margin: 0 auto;
+    width: 450px;
+    height: 50px;
+}
+hr{
+    border: 1px solid darkgray;
+    margin: 28px 0;
+}
+h3{
+    font-size: 19px;
+}
+.jumbotron{
+    background-color: rgba( 255, 255, 255, 0.1);
+}
+nav{
+    text-align: left;
+    padding: 0 30px 0;
+}
+ul li{
+    font-weight: normal;
+}
+img{
+    width: 380px;
+    height: 500px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+table{
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 530px;
+    height: 80px;
+}
+nav{
+    width: 500px;
+}
+ul{
+    margin-top: 20px;
+}
+.nav li{
+    font-size: 16px;
+    margin-right: 5px;
+}
+th{
+    padding: 5px 0;
+}
+.thumbnail{
+    background-color: rgba( 255, 255, 255, 0.2 );
+    width: 270px;
+}
+.row_pack{
+    box-sizing: border-box;
+    width: 902px;
+    height: 330px;
+    margin: 0 auto;
+
+}
+.row{
+    width: 300px;
+    height: 320px;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+.lol{
+    padding-top: 10px;
+}
+.ocean{
+    width: 500px;
+    height: 300px;
+}
+.thumbnail .thumb_img{
+    height: 150px; 
+    width: 150px; 
+    padding-top: 5px;
+}
+ul li{
+    color: #768C65;
+}
+q i{
+    font-size: 20px;
+    color: darkred;
+}
+.wish{
+    font-family: 'LAB디지털';
+    font-size: 22px;
+}
+select{
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    font-family: 'Jal_Onuel';
+    padding: 3px 0 0 8px;
+    background-color: #FFECDE;
+}
+textarea{
+    width: 500px !important;
+    margin: 10px auto;
+    text-align: center;
+}
